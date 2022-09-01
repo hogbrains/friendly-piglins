@@ -1,0 +1,7 @@
+name: FriendlyPiglins
+version: '${project.version}'
+main: me.abaris.friendlypiglins.Friendlypiglins
+api-version: 1.19
+permissions:
+  friendlypiglins.friend:
+    description: Makes piglins friendly to you
